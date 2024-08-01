@@ -1,0 +1,44 @@
+[
+  {
+    "phase_id": "1",
+    "phase_name": "movement-sdk",
+    "topics": [
+      {
+        "topic_id": "what-is-Movement",
+        "topic_name": "What is Movement??",
+        "subtopics": [
+        ]
+      }
+    ]
+  },
+  {
+    "phase_id": "2",
+    "phase_name": "The components of the movement sdk",
+    "topics": [
+      {
+        "topic_id": "moveVM-the-secure-execution-engine",
+        "topic_name": "MoveVM: The Secure Execution Engine",
+        "subtopics": [
+          {
+            "subtopic_id": "key-features-of-moveVM",
+            "subtopic_name": "Key Features of MoveVM"
+          }
+        ]
+      },
+      {
+        "topic_id": "fractal",
+        "topic_name": "Fractal: Bridging Solidity and MoveVM",
+        "subtopics": [
+          {
+            "subtopic_id": "understanding-fractals",
+            "subtopic_name": "Understanding Fractals:"
+          }
+        ]
+      },
+      {
+        "topic_id": "custom-adaptors",
+        "topic_name": "Custom Adaptors for Seamless Integration"
+      }
+    ]
+  }
+]
